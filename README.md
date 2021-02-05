@@ -1,0 +1,1 @@
+This is game called Skyscrapers. You have a table nxn and you have to put some buildings with some rules. This program will check if permutation of buildings is correct. GLHF! 
